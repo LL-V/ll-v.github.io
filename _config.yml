@@ -1,0 +1,4 @@
+title: LL-V
+description: Notes on network protocol parser safety — framing bugs, smuggling, and the places where two parsers disagree on what a message means.
+url: https://ll-v.github.io
+theme: minima
